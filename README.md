@@ -1,6 +1,10 @@
 # TextMate
 A note organization app with a great text-editor. Notes can be categorized under different sections.
 
+![jobit](https://github.com/user-attachments/assets/b8521015-e918-4ab7-92d8-e0df2c6c98fc)
+
+
+
 ```bash
 npm install && npm start
 ```
