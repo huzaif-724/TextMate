@@ -20,33 +20,33 @@ MongoDB: NoSQL database for storing user data, books, and notes. <br/>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/huzaif-724/Edtech-Platform.git
+git clone https://github.com/huzaif-724/TextMate.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Edtech-Platform
+cd text-mate
 ```
 
 3. Install dependencies:
 ```bash
 # For backend
-cd backend
+cd server
 npm install
 
 # For frontend 
-cd ../frontend
+cd client
 npm install
 ```
 
 4. Start the development servers:
 ```bash
 # Start backend server
-cd backend
+cd server
 npm start
 
 # Start frontend server
-cd ../frontend
+cd client
 npm start
 ```
 
