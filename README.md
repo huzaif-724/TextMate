@@ -1,4 +1,4 @@
-![Screenshot 2025-02-08 204542](https://github.com/user-attachments/assets/06d7eeb7-0edc-40f6-baa6-fd41b66ab4bd)# TextMate
+# TextMate
 TextMate is a full-stack web application designed for personal book and note management. It allows users to securely authenticate, create, read, update, and delete (CRUD) their books and notes. The application provides a seamless and responsive user interface for easy navigation and efficient management.
 
 
