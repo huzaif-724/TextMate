@@ -1,4 +1,4 @@
-# TextMate
+![Screenshot 2025-02-08 204542](https://github.com/user-attachments/assets/06d7eeb7-0edc-40f6-baa6-fd41b66ab4bd)# TextMate
 TextMate is a full-stack web application designed for personal book and note management. It allows users to securely authenticate, create, read, update, and delete (CRUD) their books and notes. The application provides a seamless and responsive user interface for easy navigation and efficient management.
 
 
@@ -16,19 +16,47 @@ Express.js: Web framework for building the backend API. <br/>
 React.js: Frontend library for creating dynamic user interfaces. <br/>
 MongoDB: NoSQL database for storing user data, books, and notes. <br/>
 
+## Getting Started
+
+1. Clone the repository:
 ```bash
-npm install && npm start
+git clone https://github.com/huzaif-724/Edtech-Platform.git
 ```
 
-#### Database Connection
+2. Navigate to the project directory:
+```bash
+cd Edtech-Platform
+```
 
-1. Import connect.js
-2. Invoke in start()
-3. Setup .env in the root
-4. add MONGO_URI(database connection), JWT_SECRET(key used to create the token) in .env
+3. Install dependencies:
+```bash
+# For backend
+cd backend
+npm install
 
-#### Routers
+# For frontend 
+cd ../frontend
+npm install
+```
 
-- auth.js
-- book.js
-- note.js
+4. Start the development servers:
+```bash
+# Start backend server
+cd backend
+npm start
+
+# Start frontend server
+cd ../frontend
+npm start
+```
+
+
+## Screenshots 
+
+
+![Screenshot 2025-02-08 204542](https://github.com/user-attachments/assets/38f8f9c2-8d95-43ce-b5bd-da6bf831ec32)
+
+![Screenshot 2025-02-08 204216](https://github.com/user-attachments/assets/89696ad6-00ca-4d94-8bfe-e2faeb8fb9dc)
+
+![Screenshot 2025-02-08 204456](https://github.com/user-attachments/assets/782fdcca-8263-4eb3-9231-b51327807ea5)
+
