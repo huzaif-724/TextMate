@@ -4,7 +4,7 @@ TextMate is a full-stack web application designed for personal book and note man
 
 ## 🚀 Features
 
-User Authentication: Secure login and registration system. <br/>
+User Authentication: Secure login and registration system. <br/> 
 Book Management: Add, update, delete, and organize personal books. <br/>
 Note Management: Create, edit, and delete notes. <br/>
 Responsive UI: Optimized for various screen sizes, including mobile and tablet devices. <br/>
